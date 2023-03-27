@@ -10,6 +10,8 @@ https://codepen.io/ (Site) --- Online Editor, has challenges
 
 https://www.colourlovers.com/ (Site) --- Color Trends/Palettes
 
+https://tailwindcss.com/docs/customizing-colors (Site) --- Cores profissionais
+
 https://express.adobe.com/ (Site) --- Logo Generator
 
 https://www.adobe.com/br/express/create/poster (Site) --- Poster Maker
@@ -23,6 +25,8 @@ https://namelix.com/ (Site) --- Random Business Name generator
 https://www.pexels.com/ (Site) --- Image Gallery
 
 https://icons8.com/ (site) --- Logos PNG/SVG Gallery
+
+https://unsplash.com (site) --- Fotos livre uso
 
 https://pixabay.com/ (Site) --- Image Gallery
 
