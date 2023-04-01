@@ -26,7 +26,7 @@ https://www.pexels.com/ (Site) --- Image Gallery
 
 https://icons8.com/ (site) --- Logos PNG/SVG Gallery
 
-https://unsplash.com (site) --- Fotos livre uso
+https://unsplash.com (site) --- Image Gallery
 
 https://pixabay.com/ (Site) --- Image Gallery
 
