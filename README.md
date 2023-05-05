@@ -2,6 +2,8 @@
 
 Tricks / Softwares
 
+https://dbdiagram.io/ --- Visual Database Organization
+
 https://phosphoricons.com/ --- Url icons
 
 https://builtwith.com/ (Site) --- See sites components
