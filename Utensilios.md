@@ -37,3 +37,5 @@
 ##https://www.hackerrank.com/ (Site) --- Online Editor, has challenges
 
 ##https://leafletjs.com/examples.html (Site) --- Google maps alternative
+
+##https://mailchimp.com/pt-br/ (Site) --- Easier way to send e-mails (no code)
